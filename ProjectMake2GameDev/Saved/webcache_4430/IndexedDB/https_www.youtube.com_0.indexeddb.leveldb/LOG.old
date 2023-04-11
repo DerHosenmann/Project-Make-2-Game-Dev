@@ -1,0 +1,8 @@
+2023/04/07-00:56:15.166 3054 Reusing MANIFEST D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/07-00:56:15.166 3054 Recovering log #11
+2023/04/07-00:56:15.166 3054 Reusing old log D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000011.log 
+2023/04/07-00:56:18.265 3b8c Level-0 table #16: started
+2023/04/07-00:56:18.265 3b8c Level-0 table #16: 0 bytes OK
+2023/04/07-00:56:18.312 3b8c Delete type=0 #11
+2023/04/07-00:56:18.312 3b8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/07-00:56:18.312 3b8c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

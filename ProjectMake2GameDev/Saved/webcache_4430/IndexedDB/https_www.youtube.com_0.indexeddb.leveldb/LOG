@@ -1,0 +1,15 @@
+2023/04/10-13:25:04.861 45cc Reusing MANIFEST D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/04/10-13:25:04.861 45cc Recovering log #15
+2023/04/10-13:25:04.862 45cc Reusing old log D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000015.log 
+2023/04/10-13:28:30.199 1994 Level-0 table #19: started
+2023/04/10-13:28:30.246 1994 Level-0 table #19: 8499 bytes OK
+2023/04/10-13:28:30.286 1994 Delete type=0 #15
+2023/04/10-13:28:30.312 1994 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/04/10-13:28:30.312 1994 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \x0az\x8cuxB\x00\x03\x00\x00\x00\x00\x00\x00\x1c@' @ 514 : 0
+2023/04/10-13:28:30.313 1994 Compacting 1@1 + 1@2 files
+2023/04/10-13:28:30.361 1994 Generated table #20@1: 41 keys, 2549 bytes
+2023/04/10-13:28:30.361 1994 Compacted 1@1 + 1@2 files => 2549 bytes
+2023/04/10-13:28:30.386 1994 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/04/10-13:28:30.386 1994 Delete type=2 #13
+2023/04/10-13:28:30.386 1994 Delete type=2 #19
+2023/04/10-13:28:30.395 1994 Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x06\x00Q\x00U\x00E\x00U\x00E\x00D\x03\x00\x00\x00\x00\x00\x00L@\x03\x00 \x0az\x8cuxB\x00\x03\x00\x00\x00\x00\x00\x00\x1c@' @ 514 : 0 .. (end); will stop at (end)

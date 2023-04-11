@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/Blueprints/BP_PickupItem.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/Blueprints/W_Inventory.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/Blueprints/W_PickUpItem.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/Blueprints/PickUpItem_Interface.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/9L/MHWND00C7AVJRBR90EBHVS.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/64/01VIO1OPB1THEL2G6KI1CG.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BL/1K1PENKR4SRKX2HNG4W9I9.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JP/1LG9Z61SIMBLH5JDRUBIWD.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/W6/W3ZFSUYSHSE0HR49EM6DKJ.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/B5/5IT8A45CH2S3SQOUMHDCEX.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/N1/ZP28V6BO2H6CNFHHQ0ELSL.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/Assets/Apple.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/Assets/apple1.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/Blueprints/B_Apple_PickUp.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/Assets/hoja.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/Assets/Icon.uasset",
+				"D:/COCO/ProjectMake2/Project-Make-2-Game-Dev/ProjectMake2GameDev/Content/Assets/palo.uasset"
+			]
+		}
+	]
+}
